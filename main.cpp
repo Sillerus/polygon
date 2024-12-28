@@ -14,20 +14,6 @@
 using namespace std;
 using namespace chrono;
 
-#include <iostream>
-#include <fstream>
-#include <sstream>
-#include <vector>
-#include <unordered_map>
-#include <stack>
-#include <queue>
-#include <limits>
-#include <cmath>
-#include <algorithm>
-#include <set>
-
-using namespace std;
-
 // Структура узла графа с координатами и ребрами
 struct Node {
     double lon; // Долгота узла
